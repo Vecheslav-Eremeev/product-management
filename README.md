@@ -8,7 +8,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <URL_репозитория>
+   git clone [<URL_репозитория>](https://github.com/Vecheslav-Eremeev/product-management)
    cd product-management
 2. Установите зависимости:
     ```bash
